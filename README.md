@@ -18,7 +18,7 @@ Here are some of the key features of Future Unbound:
 
 ## Getting Started
 
-To get started with Future Unbound, simply visit the website at [insert website URL here]. From there, you can browse through the different pages and projects, or check out the GitHub repository to get involved with the development of the project.
+To get started with Future Unbound, simply visit the website at [https://future-unbound.netlify.com]. From there, you can browse through the different pages and projects, or check out the GitHub repository to get involved with the development of the project.
 
 ## Contributing
 
@@ -26,6 +26,6 @@ Future Unbound is an open-source project that welcomes contributions from anyone
 
 ## Contact
 
-If you have any questions or comments about Future Unbound, feel free to reach out to Alex directly at [alex.de.foc@gmail.com].
+If you have any questions or comments about Future Unbound, feel free to reach out to Me directly at [alex.de.foc@gmail.com].
 
 Thank you for your interest in Future Unbound, and happy exploring!
