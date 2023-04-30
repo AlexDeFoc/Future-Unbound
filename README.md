@@ -1,7 +1,7 @@
 
 # Future Unbound
 
-Future Unbound is a website project that showcases the creative and intellectual pursuits of Alex Defoc, a self-proclaimed future great scientist and revolutionary thinker in the fields of math and physics.
+Future Unbound is a website project that showcases the creative and intellectual pursuits of AlexDefoc, a self-proclaimed future great scientist and revolutionary thinker in the fields of math and physics.
 
 ## Overview
 
