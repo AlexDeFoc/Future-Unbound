@@ -1,0 +1,13 @@
+@import url(/design-room/defaults.css);
+
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: var(--BG-Base);
+}

@@ -1,0 +1,4 @@
+1. Made defaults.css
+2. |-|  base.css
+3. Added the --BG-Base color in : 1.
+4. Imported the defaults.css and made general rules, and added the bg color.
