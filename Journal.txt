@@ -1,1 +1,2 @@
-1. Changed the base.css header style
+1. Added the Gallery Room (folder)
+2. Made favicon and added it to index.html
