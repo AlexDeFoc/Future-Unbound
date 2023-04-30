@@ -1,4 +1,1 @@
-1. Made the socials
-2. Customized the base.css for the socials
-3. Added in defautls.css : font-family: Rubik 80s Fade; --BG-Socials-Container; --BG-Socials-Box.
-4. Made fonts.css and imported 'https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap'.
+1. Changed the base.css header style
