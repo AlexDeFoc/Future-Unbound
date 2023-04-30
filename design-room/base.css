@@ -11,3 +11,80 @@ body
 {
     background-color: var(--BG-Base);
 }
+
+#wrapper
+{
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header
+{
+    font-size: 12rem;
+    color: white;
+    margin-bottom: 5rem;
+}
+
+.socials-container
+{
+    background-color: var(--BG-Socials-Container);
+
+    width: auto;
+    height: auto;
+
+    border-radius: 2rem;
+    padding: 2rem 0;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.box
+{
+    background-color: var(--BG-Socials-Box);
+
+    width: 35rem;
+    height: calc(10rem + 19.2rem + 15rem);
+
+    border-radius: 4rem;
+
+    margin: 0 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title
+{
+    font-size: 5rem;
+    color: white;
+}
+
+.social-logo
+{
+    padding: 2rem 0 5rem;
+}
+
+.btn
+{
+    border: .4rem solid gray;
+    border-radius: 4rem;
+    
+    padding: 2rem 3rem;
+    
+    background-color: var(--BG-Base);
+    color: whitesmoke;
+    
+    font-size: 3rem;
+    font-family: 'Rubik 80s Fade', cursive;
+    
+    cursor: pointer;
+}

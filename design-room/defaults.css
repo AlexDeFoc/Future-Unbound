@@ -1,5 +1,13 @@
+@import url(/design-room/fonts.css);
+
 :root
 {
     /*BG Colors : CODE "BG"*/
-    --BG-Base : hsla(0, 0%, 0.3%, 1);
+    --BG-Base : hsla(0, 0%, 0.3%, 1); /*This refers to the index page's bg*/
+    --BG-Socials-Container : hsla(0, 0%, 9%, 1);
+    --BG-Socials-Box : hsla(0, 0%, 5%, 1);
+
+    /*Text Rules*/
+    font-size: 62.5%;
+    font-family: 'Rubik 80s Fade', cursive;
 }
