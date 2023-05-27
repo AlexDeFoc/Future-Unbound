@@ -1,1 +1,1 @@
-1. Self Hosted the font.
+1. C-Horizon - D27.05.2023 (C = Copied from horizon to the test branch)
